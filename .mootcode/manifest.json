@@ -1,0 +1,12 @@
+{
+  "sum-array:python": {
+    "code_sha256": "402316b8dc460a1a9a14042a193a80c5dc642bdf8c80855d80d14aceb0d31560",
+    "difficulty": "warmup",
+    "language": "python",
+    "path": "arrays-strings/sum-array.py",
+    "pattern": "Arrays & Strings",
+    "problem_id": "sum-array",
+    "solved_at": "2026-08-18T23:08:01.100388+00:00",
+    "title": "Sum the List"
+  }
+}
