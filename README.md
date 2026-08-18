@@ -6,3 +6,4 @@ Solved problems, pushed automatically from [MootCode](https://github.com/mootcod
 | --- | --- | --- | --- | --- |
 | [Sum the List](arrays-strings/sum-array.py) | Arrays & Strings | warmup | python | 2026-08-18 |
 | [Find the Largest](arrays-strings/find-max.py) | Arrays & Strings | warmup | python | 2026-08-18 |
+| [Count the Multiples](arrays-strings/count-fizzbuzz.py) | Arrays & Strings | warmup | python | 2026-08-18 |

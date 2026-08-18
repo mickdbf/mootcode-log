@@ -1,4 +1,14 @@
 {
+  "count-fizzbuzz:python": {
+    "code_sha256": "d5fce580c28a815f97a57be778874e23025c1097a143aa6355c54a7974d8fdb0",
+    "difficulty": "warmup",
+    "language": "python",
+    "path": "arrays-strings/count-fizzbuzz.py",
+    "pattern": "Arrays & Strings",
+    "problem_id": "count-fizzbuzz",
+    "solved_at": "2026-08-18T23:32:29.301804+00:00",
+    "title": "Count the Multiples"
+  },
   "find-max:python": {
     "code_sha256": "9bcb8a0b3b31081f6e4ba72087f29dc5708188084e36dc1cc707740c7eb81430",
     "difficulty": "warmup",
