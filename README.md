@@ -5,3 +5,4 @@ Solved problems, pushed automatically from [MootCode](https://github.com/mootcod
 | Problem | Pattern | Difficulty | Language | Solved |
 | --- | --- | --- | --- | --- |
 | [Sum the List](arrays-strings/sum-array.py) | Arrays & Strings | warmup | python | 2026-08-18 |
+| [Find the Largest](arrays-strings/find-max.py) | Arrays & Strings | warmup | python | 2026-08-18 |
