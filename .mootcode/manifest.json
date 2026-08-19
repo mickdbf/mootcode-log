@@ -60,13 +60,13 @@
     "title": "Reverse an Array In-Place"
   },
   "sum-array:python": {
-    "code_sha256": "402316b8dc460a1a9a14042a193a80c5dc642bdf8c80855d80d14aceb0d31560",
+    "code_sha256": "59ebbe4060e579e3d6e58d6f60683a80eb2d90ae8c68b64531dd036938d4b868",
     "difficulty": "warmup",
     "language": "python",
     "path": "arrays-strings/sum-array.py",
     "pattern": "Arrays & Strings",
     "problem_id": "sum-array",
-    "solved_at": "2026-08-18T23:08:01.100388+00:00",
+    "solved_at": "2026-08-19T07:28:54.012007+00:00",
     "title": "Sum the List"
   }
 }
