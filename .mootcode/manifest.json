@@ -19,6 +19,16 @@
     "solved_at": "2026-08-18T23:14:42.102902+00:00",
     "title": "Find the Largest"
   },
+  "remove-duplicates-from-sorted-array:python": {
+    "code_sha256": "c63b094b4d5a0347a614809bcba8bced1c503763c6b1f92a351d2a05432fbb13",
+    "difficulty": "warmup",
+    "language": "python",
+    "path": "arrays-strings/remove-duplicates-from-sorted-array.py",
+    "pattern": "Arrays & Strings",
+    "problem_id": "remove-duplicates-from-sorted-array",
+    "solved_at": "2026-08-19T05:47:22.093718+00:00",
+    "title": "Remove Duplicates From Sorted Array"
+  },
   "reverse-an-array-in-place:python": {
     "code_sha256": "779c057010b6aea9a02aa740fec45fa2d3016800251a281adb2c15a73ce3080d",
     "difficulty": "warmup",
