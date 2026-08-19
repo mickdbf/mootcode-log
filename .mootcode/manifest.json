@@ -19,6 +19,16 @@
     "solved_at": "2026-08-18T23:14:42.102902+00:00",
     "title": "Find the Largest"
   },
+  "reverse-an-array-in-place:python": {
+    "code_sha256": "779c057010b6aea9a02aa740fec45fa2d3016800251a281adb2c15a73ce3080d",
+    "difficulty": "warmup",
+    "language": "python",
+    "path": "arrays-strings/reverse-an-array-in-place.py",
+    "pattern": "Arrays & Strings",
+    "problem_id": "reverse-an-array-in-place",
+    "solved_at": "2026-08-19T04:29:38.030935+00:00",
+    "title": "Reverse an Array In-Place"
+  },
   "sum-array:python": {
     "code_sha256": "402316b8dc460a1a9a14042a193a80c5dc642bdf8c80855d80d14aceb0d31560",
     "difficulty": "warmup",
