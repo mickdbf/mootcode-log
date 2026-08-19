@@ -1,4 +1,14 @@
 {
+  "alternating-case-conversion:python": {
+    "code_sha256": "645a3524ec51fae7997d5970663c3b874445206cc04ae988e5b0a4ffe99f240a",
+    "difficulty": "warmup",
+    "language": "python",
+    "path": "arrays-strings/alternating-case-conversion.py",
+    "pattern": "Arrays & Strings",
+    "problem_id": "alternating-case-conversion",
+    "solved_at": "2026-08-19T06:36:21.991816+00:00",
+    "title": "Alternating Case Conversion"
+  },
   "check-for-duplicate-elements:python": {
     "code_sha256": "6316b04328e02da91672e7399a160d428062691f5de5e7debc01777770b3a4b0",
     "difficulty": "warmup",
