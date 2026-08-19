@@ -1,4 +1,14 @@
 {
+  "check-for-duplicate-elements:python": {
+    "code_sha256": "6316b04328e02da91672e7399a160d428062691f5de5e7debc01777770b3a4b0",
+    "difficulty": "warmup",
+    "language": "python",
+    "path": "arrays-strings/check-for-duplicate-elements.py",
+    "pattern": "Arrays & Strings",
+    "problem_id": "check-for-duplicate-elements",
+    "solved_at": "2026-08-19T06:03:20.084686+00:00",
+    "title": "Check for Duplicate Elements"
+  },
   "count-fizzbuzz:python": {
     "code_sha256": "d5fce580c28a815f97a57be778874e23025c1097a143aa6355c54a7974d8fdb0",
     "difficulty": "warmup",
